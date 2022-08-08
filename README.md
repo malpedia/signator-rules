@@ -13,23 +13,23 @@ They are released under the [CC BY-SA 4.0 license](https://creativecommons.org/l
 Across Malpedia, the current rule set achieves:
 ```
 ++++++++++++++++++ Statistics +++++++++++++++++++
-Evaluation date:                       2022-05-17
-Samples (all):                              11956
-Samples (detectable):                        4897
-Families:                                    2435
+Evaluation date:                       2022-08-08
+Samples (all):                              12147
+Samples (detectable):                        4973
+Families:                                    2507
 -------------------------------------------------
-Families covered by rules:                   1138
-Rules without FPs:                           1128
-Rules without FNs:                           1067
-'Clean' Rules:                               1060
+Families covered by rules:                   1160
+Rules without FPs:                           1151
+Rules without FNs:                           1091
+'Clean' Rules:                               1085
 -------------------------------------------------
-True Positives:                              4714
-False Positives:                               26
-True Negatives:                              5633
-False Negatives:                              183
+True Positives:                              4794
+False Positives:                               32
+True Negatives:                              5747
+False Negatives:                              179
 -------------------------------------------------
-PPV / Precision:                            0.995
-TPR / Recall:                               0.963
+PPV / Precision:                            0.993
+TPR / Recall:                               0.964
 F1:                                         0.978
 ```
 
