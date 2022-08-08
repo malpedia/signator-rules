@@ -8,7 +8,7 @@ The content of the `rules` folder is also identical with what is returned by the
 
 They are released under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), allowing commercial usage.
 
-## Latest Release: 2022-05-16
+## Latest Release: 2022-08-08
 
 Across Malpedia, the current rule set achieves:
 ```
