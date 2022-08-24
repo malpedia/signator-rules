@@ -129,5 +129,5 @@ rule win_bumblebee_auto {
             //   4883791810           | mov                 ecx, edi
 
     condition:
-        7 of them and filesize < 4825088
+        6 of them and filesize < 4825088
 }
