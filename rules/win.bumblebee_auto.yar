@@ -114,5 +114,5 @@ rule win_bumblebee_auto {
             //   488d8ab0000000       | jmp                 ecx
 
     condition:
-        7 of them and filesize < 4825088
+        6 of them and filesize < 4825088
 }
