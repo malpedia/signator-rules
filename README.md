@@ -13,24 +13,24 @@ They are released under the [CC BY-SA 4.0 license](https://creativecommons.org/l
 Across Malpedia, the current rule set achieves:
 ```
 ++++++++++++++++++ Statistics +++++++++++++++++++
-Evaluation date:                       2023-01-24
-Samples (all):                              12710
-Samples (detectable):                        5244
-Families:                                    2696
+Evaluation date:                       2023-04-07
+Samples (all):                              12981
+Samples (detectable):                        5320
+Families:                                    2768
 -------------------------------------------------
-Families covered by rules:                   1233
-Rules without FPs:                           1208
-Rules without FNs:                           1151
-'Clean' Rules:                               1132
+Families covered by rules:                   1272
+Rules without FPs:                           1261
+Rules without FNs:                           1193
+'Clean' Rules:                               1186
 -------------------------------------------------
-True Positives:                              5019
-False Positives:                               43
-True Negatives:                              6027
-False Negatives:                              225
+True Positives:                              5115
+False Positives:                               27
+True Negatives:                              6229
+False Negatives:                              205
 -------------------------------------------------
-PPV / Precision:                            0.992
-TPR / Recall:                               0.957
-F1:                                         0.974
+PPV / Precision:                            0.995
+TPR / Recall:                               0.961
+F1:                                         0.978
 ```
 
 with no false positives against the [VirusTotal goodware data set](https://blog.virustotal.com/2019/10/test-your-yara-rules-against-goodware.html).
