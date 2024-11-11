@@ -8,29 +8,31 @@ The content of the `rules` folder is also identical with what is returned by the
 
 They are released under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), allowing commercial usage.
 
-## Latest Release: 2023-12-08
+## Latest Release: 2024-11-11
 
 Across Malpedia, the current rule set achieves:
 ```
 ++++++++++++++++++ Statistics +++++++++++++++++++
-Evaluation date:                       2023-12-08
-Samples (all):                              13868
-Samples (detectable):                        5647
-Families:                                    3009
+Evaluation date:                       2024-11-11
+Samples (all):                              14664
+Samples (detectable):                        5928
+Families:                                    3259
 -------------------------------------------------
-Families covered by rules:                   1386
-Rules without FPs:                           1373
-Rules without FNs:                           1303
-'Clean' Rules:                               1296
+Families covered by rules:                   1468
+Rules without FPs:                           1456
+Rules without FNs:                           1386
+'Clean' Rules:                               1378
 -------------------------------------------------
-True Positives:                              5438
-False Positives:                               27
-True Negatives:                              6749
-False Negatives:                              209
+True Positives:                              5714
+False Positives:                               40
+True Negatives:                              7240
+False Negatives:                              214
+
 -------------------------------------------------
-PPV / Precision:                            0.995
-TPR / Recall:                               0.963
-F1:                                         0.979
+PPV / Precision:                            0.993
+TPR / Recall:                               0.964
+F1:                                         0.978
+
 ```
 
 with no false positives against the [VirusTotal goodware data set](https://blog.virustotal.com/2019/10/test-your-yara-rules-against-goodware.html).
