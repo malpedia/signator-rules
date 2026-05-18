@@ -8,30 +8,30 @@ The content of the `rules` folder is also identical with what is returned by the
 
 They are released under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), allowing commercial usage.
 
-## Latest Release: 2026-01-06
+## Latest Release: 2026-05-04
 
 Across Malpedia, the current rule set achieves:
 ```
 ++++++++++++++++++ Statistics +++++++++++++++++++
-Evaluation date:                       2026-01-06
-Samples (all):                              15849
-Samples (detectable):                        6180
-Families:                                    3607
+Evaluation date:                       2026-05-04
+Samples (all):                              16245
+Samples (detectable):                        6269
+Families:                                    3714
 -------------------------------------------------
-Families covered by rules:                   1595
-Rules without FPs:                           1584
-Rules without FNs:                           1500
-'Clean' Rules:                               1495
+Families covered by rules:                   1622
+Rules without FPs:                           1611
+Rules without FNs:                           1519
+'Clean' Rules:                               1513
 -------------------------------------------------
-True Positives:                              5883
-False Positives:                               37
-True Negatives:                              8183
-False Negatives:                              297
+True Positives:                              5943
+False Positives:                               32
+True Negatives:                              8510
+False Negatives:                              326
 
 -------------------------------------------------
-PPV / Precision:                            0.994
-TPR / Recall:                               0.952
-F1:                                         0.972
+PPV / Precision:                            0.995
+TPR / Recall:                               0.948
+F1:                                         0.971
 
 ```
 
