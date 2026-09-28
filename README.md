@@ -8,30 +8,30 @@ The content of the `rules` folder is also identical with what is returned by the
 
 They are released under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), allowing commercial usage.
 
-## Latest Release: 2026-05-04
+## Latest Release: 2026-09-17
 
 Across Malpedia, the current rule set achieves:
 ```
 ++++++++++++++++++ Statistics +++++++++++++++++++
-Evaluation date:                       2026-05-04
-Samples (all):                              16245
-Samples (detectable):                        6269
-Families:                                    3714
+Evaluation date:                       2026-09-17
+Samples (all):                              16500
+Samples (detectable):                        6371
+Families:                                    3797
 -------------------------------------------------
-Families covered by rules:                   1622
-Rules without FPs:                           1611
-Rules without FNs:                           1519
-'Clean' Rules:                               1513
+Families covered by rules:                   1673
+Rules without FPs:                           1657
+Rules without FNs:                           1567
+'Clean' Rules:                               1560
 -------------------------------------------------
-True Positives:                              5943
-False Positives:                               32
-True Negatives:                              8510
-False Negatives:                              326
+True Positives:                              6022
+False Positives:                               33
+True Negatives:                              8659
+False Negatives:                              349
 
 -------------------------------------------------
 PPV / Precision:                            0.995
-TPR / Recall:                               0.948
-F1:                                         0.971
+TPR / Recall:                               0.945
+F1:                                         0.969
 
 ```
 
